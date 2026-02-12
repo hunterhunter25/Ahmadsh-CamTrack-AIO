@@ -28,7 +28,7 @@ pkg update && pkg upgrade -y
 pkg install python php git -y
 
 # تحميل الأداة من المستودع
-git clone [https://github.com/ahmadshh208/Ahmadsh-CamTrack-AIO.git](https://github.com/ahmadshh208/Ahmadsh-CamTrack-AIO.git)
+git clone https://github.com/hunterhunter25/Ahmadsh-CamTrack-AIO.git
 
 # الدخول لمجلد الأداة
 cd Ahmadsh-CamTrack-AIO
